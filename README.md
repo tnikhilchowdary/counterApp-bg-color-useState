@@ -13,3 +13,9 @@ This is a simple React application that demonstrates the use of the `useState` h
 1. Clone the repo:
    ```bash
    git clone https://github.com/tnikhilchowdary/counterApp-bg-color-useState.git
+   cd counterApp-bg-color-useState
+   npm install
+   npm start
+
+
+
